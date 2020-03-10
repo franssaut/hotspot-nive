@@ -84,6 +84,7 @@ body{
 
 
 /*=== Header Login === */
+
 .login-box{
 	background-color:none;
 	margin: 0 auto;
@@ -106,8 +107,8 @@ body{
 .header-login h1{
 	
 
-	color: rgb(255, 158, 64);
-	text-shadow: 1px 0px 2px rgb(241, 239, 202);
+	color: rgb(250, 153, 57);
+	text-shadow: 1px 0px 3px rgb(241, 239, 202);
 
 	padding: 0px 10px 10px;
 	border-radius: 2px;
